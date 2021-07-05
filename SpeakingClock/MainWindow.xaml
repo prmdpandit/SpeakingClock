@@ -1,0 +1,8 @@
+﻿<Window x:Class="SpeakingClock.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button Content="Speaking Clock" Height="56" HorizontalAlignment="Left" Margin="106,74,0,0" Name="btnstartspeakingclock" VerticalAlignment="Top" Width="267" Click="btnstartspeakingclock_Click" />
+    </Grid>
+</Window>
